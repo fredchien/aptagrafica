@@ -1,0 +1,17 @@
+{
+  "name": "aptagrafica",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Frederic Chien"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/fredchien/aptagrafica",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
